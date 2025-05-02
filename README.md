@@ -8,5 +8,4 @@ electre.ipynb: source code of the ELECTRE Tri-B application
 
 mapa_interativo.html: interactive map of RMB classification in html
 
-
-df_criterios.xlsx: dataset containing the values of the criteria for each municipality and its classification
+df_criterios.csv: dataset containing the values of the criteria for each municipality and its classification
